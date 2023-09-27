@@ -15,7 +15,7 @@ Before you can use this script, make sure you have the following prerequisites i
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/berhanudagnew/python_email_automation
 cd your-repo
 Usage
 Open the email_sender.py file in a code editor.
